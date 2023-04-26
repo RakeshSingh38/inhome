@@ -157,6 +157,7 @@ a:focus {
     position: relative;
     background: #fdbe33;
     transition: .3s;
+    padding: 50px;
 }
 
 .nav-bar .container-fluid {
